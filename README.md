@@ -1,2 +1,2 @@
 # BinarySearch
-This repo contains the code for Binary Search.
+Contains the code for Binary Search.
